@@ -1,0 +1,32 @@
+.clockBox {
+    width: 125px;
+    height: 75px;
+    background-color: rgb(255, 255, 255);
+    margin: 10px;
+    padding: 10px;
+    border-style:solid ;
+    float:left ;
+    -webkit-box-shadow: 10px 7px 19px -6px rgba(0,0,0,0.78);
+    -moz-box-shadow: 10px 7px 19px -6px rgba(0,0,0,0.78);
+    box-shadow: 10px 7px 19px -6px rgba(0,0,0,0.78);
+
+}
+
+h1 {
+    color: #ffffff;
+}
+.body {
+
+    background-color: #2C3333;
+}
+
+.boxs {
+    width: 435px;
+
+    margin: 0 auto 0 auto;
+}
+
+p{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 40px;
+}
